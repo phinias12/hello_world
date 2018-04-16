@@ -1,0 +1,17 @@
+commit 59c74ee2f32e3847715f67c10ac71c93795a30cb
+Author: Phidias Mendez <mendezphidias@gmail.com>
+Date:   Sun Apr 15 02:59:54 2018 -0400
+
+    Created Hello World Script
+
+commit bd82c30838547f5a98b71b0d88de8df05b0cf3c4
+Author: Phidias Mendez <mendezphidias@gmail.com>
+Date:   Sun Apr 15 02:43:39 2018 -0400
+
+    Updated the Readme
+
+commit 3afc182b434a52a1604876139b8411c9da41bdf9
+Author: Phidias Mendez <mendezphidias@gmail.com>
+Date:   Sun Apr 15 02:32:29 2018 -0400
+
+    Initial commit
